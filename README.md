@@ -1,4 +1,4 @@
-# yemek_tarifleri
+# Basic E-Commerce App
 
 A new Flutter project.
 E-commerce App.
